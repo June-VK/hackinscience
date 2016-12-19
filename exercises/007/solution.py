@@ -1,2 +1,3 @@
 #!usr/bin/python
-print("$ python solution.py \n['Hello world', 42]")
+prout = ["Hello world", 42]
+print(prout)
