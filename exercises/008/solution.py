@@ -1,2 +1,3 @@
 #! /usr/bin/python
-For i = "Hello World !"
+For i in "Hello World !":
+    print(i)
